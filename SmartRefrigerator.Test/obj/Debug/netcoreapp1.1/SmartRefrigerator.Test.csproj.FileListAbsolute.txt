@@ -1,0 +1,17 @@
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.AssemblyInfoInputs.cache
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.Test\obj\Debug\netcoreapp1.1\SmartRefrigerator.Test.csproj.CopyComplete

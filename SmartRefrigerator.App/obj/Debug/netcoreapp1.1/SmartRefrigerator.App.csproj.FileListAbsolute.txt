@@ -1,0 +1,11 @@
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\bin\Debug\netcoreapp1.1\SmartRefrigerator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\obj\Debug\netcoreapp1.1\SmartRefrigerator.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\obj\Debug\netcoreapp1.1\SmartRefrigerator.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\obj\Debug\netcoreapp1.1\SmartRefrigerator.App.dll
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\obj\Debug\netcoreapp1.1\SmartRefrigerator.App.pdb
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\obj\Debug\netcoreapp1.1\SmartRefrigerator.App.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\SmartRefrigerator\SmartRefrigerator.App\obj\Debug\netcoreapp1.1\SmartRefrigerator.App.AssemblyInfoInputs.cache
